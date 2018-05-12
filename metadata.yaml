@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39782'
     url: http://www.gutenberg.org/2009/agents/39782
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39003#Money--Speech-of-Hon.-John-P.-Jones-of-Nevada-On-the-Free-Coinage-of-Silver--in-the-United-St_
 gutenberg_issued: '2012-02-28'
 gutenberg_type: Text
 identifiers:
